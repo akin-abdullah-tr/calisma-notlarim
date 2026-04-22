@@ -18,3 +18,8 @@ BTK Akademi: "Sıfırdan İleri Seviye Python Programlama" ve "Algoritma" dersle
 Akademik Destek: Ankara Üniversitesi bünyesindeki yönetim ve bilişim sistemleri dersleri ile teknik bilgiler teorik olarak pekiştiriliyor.
 
 Hedef: Kurumsal iş süreçlerini (evrak takibi, randevu sistemleri vb.) dijital algoritmalarla daha verimli hale getirebilecek altyapıyı kurmak.
+Ders 1.3: Mantıksal Operatörler ve Karar Mekanizmaları
+
+Algoritmanın temel taşlarından olan mantıksal sorguların ("Ve", "Veya") işleyişini inceledim.
+
+ Kurumsal süreçlerde bir kararın verilmesi için birden fazla şartın (Örn: Hem imza tam hem de tarih uygun mu?) aynı anda kontrol edilmesini otomatiğe bağlamak, hata payını sıfıra indirir.
